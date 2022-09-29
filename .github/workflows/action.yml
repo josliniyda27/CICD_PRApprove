@@ -1,4 +1,4 @@
-name: example action
+name: action
 
 on:
   workflow_dispatch:
